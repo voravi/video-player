@@ -1,16 +1,24 @@
-# video_player_app
+# Video Player
 
-A new Flutter project.
 
-## Getting Started
+### Output 1 ---------------------- : Output 2                  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/192106061-ce725458-f383-4c32-99c2-e5acb29ec051.jpg" alt="Screenshot_20220815_162128" width=230 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/192106063-d336b968-8e06-4f2c-bc4a-5c17a4b71db2.jpg" alt="Screenshot_20220815_162139" width=230 height=480/>
+  </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+ Mechanism Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/96048173/192106065-3c66ec9d-0d72-47b8-804b-2df346d42f0e.mp4
+  </p>
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
